@@ -1,7 +1,7 @@
 ### :남성_기술_전문가: 프로그래밍 & 마크업 언어
 <h2>야호!</h2>
 <p>설명</p>
-<br>
+<br style="width:10px;">
 <p>
   <a href="https://kimsangjunv1.github.io/coding/javascript/index.html"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-512BD4?style=flat&logo=JavaScript&logoColor=white"></a>
   <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white"></a>
