@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=f85e86&height=300&section=header&text=MY%20GITHUB🤍&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=4746ac&height=300&section=header&text=MY%20GITHUB&fontSize=90&animation=twinkling)
 
 ### 👩🏻‍💻 : 프로그래밍 & 마크업 언어
 <h2>야호!</h2>
