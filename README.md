@@ -19,12 +19,12 @@
   <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=white"></a>
   <a href="#"><img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?logo=jQuery&logoColor=white"></a>
 </p>
-### ☁️: 데이터베이스 & 클라우드 호스팅
+<p>☁️: 데이터베이스 & 클라우드 호스팅</p>
 <p>
   <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?logo=Netlify&logoColor=white"></a>
   <a href="#"><img alt="phpMyAdmin" src="https://img.shields.io/badge/phpMyAdmin-6C78AF?logo=phpMyAdmin&logoColor=white"></a>
 </p>
-### 🖥️: 소프트웨어 & 툴
+<p>🖥️: 소프트웨어 & 툴</p>
 <p>
   <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000?logo=Adobe&logoColor=white"></a>
   <a href="#"><img alt="CodePen" src="https://img.shields.io/badge/CodePen-000?logo=CodePen&logoColor=white"></a>
