@@ -11,7 +11,8 @@
   <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white"></a>
   <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white"></a>
 </p>
-### ⚒️: 프레임워크 & 라이브러리
+<!-- ### ⚒️: 프레임워크 & 라이브러리 -->
+<p>⚒️: 프레임워크 & 라이브러리</p>
 <p>
   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=Bootstrap&logoColor=white"></a>
   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white"></a>
