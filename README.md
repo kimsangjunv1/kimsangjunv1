@@ -33,5 +33,5 @@
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual Studio Code&logoColor=white"></a>
 </p>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kimsangjunv1)](https://solved.ac/kimsangjunv1)<br/>
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={kimsangjunv1})](https://solved.ac/{kimsangjunv1})
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsangjunv1)](https://github.com/kimsangjunv1/github-readme-stats)
