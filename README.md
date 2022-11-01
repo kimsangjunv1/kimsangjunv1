@@ -12,7 +12,7 @@
   <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white"></a>
 </p>
 <!-- ### ⚒️: 프레임워크 & 라이브러리 -->
-<p>⚒️: 프레임워크 & 라이브러리</p>
+<p style="background:#000">⚒️: 프레임워크 & 라이브러리</p>
 <p>
   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=Bootstrap&logoColor=white"></a>
   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white"></a>
