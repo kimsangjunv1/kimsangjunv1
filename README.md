@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=4746ac&height=300&section=header&text=CODi&fontSize=90&animation=twinkling&fontColor=131252)
 
-### 👩🏻‍💻 : 프로그래밍 & 마크업 언어
+
 <h2>👩🏻‍💻 : 프로그래밍 & 마크업 언어</h2>
 <p>
   <br>
