@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=4746ac&height=300&section=header&text=CODi&fontSize=90&animation=twinkling&fontColor=131252)
+![header](https://capsule-render.vercel.app/api?type=waving&color=000&height=300&section=header&text=CODi&fontSize=90&animation=twinkling&fontColor=fff)
 
 
 <h2>👩🏻‍💻 : 프로그래밍 & 마크업 언어</h2>
