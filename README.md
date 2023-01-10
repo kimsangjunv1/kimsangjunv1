@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=000&height=300&section=header&text=CODi&fontSize=90&animation=twinkling&fontColor=fff)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=000&height=300&section=header&text=CODi&fontSize=90&animation=twinkling&fontColor=fff) -->
 
 <img src="https://raw.githubusercontent.com/kimsangjunv1/codingclass/main/assets/img/github_image.png">
 
