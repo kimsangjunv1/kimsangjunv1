@@ -3,7 +3,6 @@
 <img src="https://raw.githubusercontent.com/kimsangjunv1/codingclass/main/assets/img/github_image.png">
 
 <h2>👩🏻‍💻 기술스택 👩🏻‍💻</h2>
-  <br>
 <p>
   <a href="https://kimsangjunv1.github.io/coding/javascript/index.html"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-512BD4?style=flat&logo=JavaScript&logoColor=white"></a>
   <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-ffffff?logo=HTML5&logoColor=white"></a>
@@ -19,15 +18,17 @@
   <a href="#"><img alt="SvelteKit" src="https://img.shields.io/badge/SvelteKit-512BD4?logo=SvelteKit&logoColor=white"></a>
   <br>
 </p>
+<br>
+<br>
 <h2>☁️: 데이터베이스 & 클라우드 호스팅</h2>
-  <br>
 <p>
   <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-ffffff?logo=Firebase&logoColor=512BD4"></a>
   <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-ffffff?logo=Netlify&logoColor=512BD4"></a>
   <a href="#"><img alt="phpMyAdmin" src="https://img.shields.io/badge/phpMyAdmin-512BD4?logo=phpMyAdmin&logoColor=white"></a>
 </p>
+<br>
+<br>
 <h2>🖥️ 사용 가능한 소프트웨어 & 툴 🖥️</h2>
-  <br>
 <p>
   <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-ffffff?logo=Adobe&logoColor=512BD4"></a>
   <a href="#"><img alt="CodePen" src="https://img.shields.io/badge/CodePen-512BD4?logo=CodePen&logoColor=white"></a>
@@ -35,9 +36,9 @@
   <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-512BD4?logo=Postman&logoColor=white"></a>
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-ffffff?logo=Visual Studio Code&logoColor=512BD4"></a>
 </p>
-
+<br>
+<br>
 <h2>👨‍👧‍👦 개인&팀 프로젝트 👨‍👧‍👦</h2>
-  <br>
 <p>
   <a href="#">[PHP/팀 프로젝트]꾸다 : 다이어리 꾸미기 체험 사이트</a>
   <br>
