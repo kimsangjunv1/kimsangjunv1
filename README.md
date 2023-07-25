@@ -4,7 +4,6 @@
 
 <h2>👩🏻‍💻 기술스택 👩🏻‍💻</h2>
 <p>
-  <br>
   <a href="https://kimsangjunv1.github.io/coding/javascript/index.html"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-512BD4?style=flat&logo=JavaScript&logoColor=white"></a>
   <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-ffffff?logo=HTML5&logoColor=white"></a>
   <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-ffffff?logo=PHP&logoColor=white"></a>
@@ -35,6 +34,9 @@
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-ffffff?logo=Visual Studio Code&logoColor=512BD4"></a>
 </p>
 
-<p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeinisfree&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<h2>👨‍👧‍👦 개인&팀 프로젝트 👨‍👧‍👦</h2>
+<p>
+  <a href="#">[PHP/팀 프로젝트]꾸다 : 다이어리 꾸미기 체험 사이트</a>
+  <a href="#">[REACT/팀 프로젝트]PICK : 날씨별 음악 추천 사이트</a>
+  <a href="#">[REACT/개인]Tect Tube : 유튜브 리디자인 사이트</a>
 </p>
