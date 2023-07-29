@@ -2,6 +2,18 @@
 
 <img src="https://raw.githubusercontent.com/kimsangjunv1/codingclass/main/assets/img/github_image.png">
 
+<h2>👨‍👧‍👦 개인&팀 프로젝트 👨‍👧‍👦</h2>
+<p>
+  <a href="https://portfolio-react-kimsangjun.netlify.app/">[REACT/개인]포트폴리오 : 그동안 배운 것들을 여러 트랜지션과 섞어 본 사이트</a>
+  <br>
+  <a href="http://vvv0032.dothome.co.kr/Diary/PHP/main/main.php">[PHP/팀 프로젝트]꾸다 : 다이어리 꾸미기 체험 사이트</a>
+  <br>
+  <a href="https://react-pick.netlify.app/">[REACT/팀 프로젝트]PICK : 날씨별 음악 추천 사이트</a>
+  <br>
+  <a href="https://react-techtube.netlify.app/">[REACT/개인]Tect Tube : 유튜브 리디자인 사이트</a>
+</p>
+<br>
+<br>
 <h2>👩🏻‍💻 기술스택 👩🏻‍💻</h2>
 <p>
   <a href="https://kimsangjunv1.github.io/coding/javascript/index.html"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-512BD4?style=flat&logo=JavaScript&logoColor=white"></a>
@@ -35,14 +47,4 @@
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-ffffff?logo=Git&logoColor=512BD4"></a>
   <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-512BD4?logo=Postman&logoColor=white"></a>
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-ffffff?logo=Visual Studio Code&logoColor=512BD4"></a>
-</p>
-<br>
-<br>
-<h2>👨‍👧‍👦 개인&팀 프로젝트 👨‍👧‍👦</h2>
-<p>
-  <a href="#">[PHP/팀 프로젝트]꾸다 : 다이어리 꾸미기 체험 사이트</a>
-  <br>
-  <a href="#">[REACT/팀 프로젝트]PICK : 날씨별 음악 추천 사이트</a>
-  <br>
-  <a href="#">[REACT/개인]Tect Tube : 유튜브 리디자인 사이트</a>
 </p>
