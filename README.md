@@ -6,16 +6,16 @@
 
 
 ## Project
-#### [PHP] CODi Agit : 블로그, 폰트추천 등등 다양한 컨텐츠를 담은 개인 웹사이트
+#### [PHP] CODi Agit : 제가 생각하고 해보고 느낀것, 좋아하는 것들을 모아놓을 아지트입니다
 <a href="https://github.com/kimsangjunv1/-PHP-CODi_Agit." target="_blank">✨깃허브</a> <a href="https://codi-agit.com/home/"  target="_blank">✨사이트</a>
 
-#### [REACT] 포트폴리오 : 그동안 시간이 흐르면서 남겨놨던 발자취를 라마 캐릭터와 인터렉티브한 요소들과 함께 표현한 포트폴리오 사이트
+#### [REACT] 포트폴리오 : 제가 지금까지 밟아온 발자취를 인터렉티브한 포트폴리오로 구성해보았습니다 🦙✨
 <a href="https://github.com/kimsangjunv1/-React-Portfolio" target="_blank">✨깃허브</a> <a href="https://portfolio-react-kimsangjun.netlify.app/"  target="_blank">✨사이트</a>
 
-#### [Next.JS] PICK : 날씨별 음악 추천 사이트
+#### [Next.JS] PICK : 내가 원하는 날씨별 음악을 픽하고 클릭하는 뮤직플레이어 '픽클' 입니다 [개선중]
 <a href="https://github.com/kimsangjunv1/-NextJS-Pickle" target="_blank">✨깃허브</a> <a href="https://pickle-music.netlify.app/home"  target="_blank">✨사이트</a>
 
-#### [REACT] PlayGround : 유튜브 리디자인 및 마음에 드는 채널 및 동영상을 쉽게 담을 수 있는 드랍박스 기능을 넣은 사이트
+#### [REACT] PlayGround : 내가 원하는 유튜브 영상을 드래그해놓고 마음대로 꺼내다가 볼수있는 '플레이그라운드' 입니다
 <a href="https://github.com/kimsangjunv1/-React-Playground" target="_blank">✨깃허브</a> <a href="https://react-techtube.netlify.app/"  target="_blank">✨사이트</a>
 
 
