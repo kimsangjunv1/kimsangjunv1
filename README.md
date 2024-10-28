@@ -10,7 +10,7 @@
 <a href="https://github.com/kimsangjunv1/-PHP-CODi_Agit." target="_blank">✨깃허브</a> <a href="https://codi-agit.com/home/"  target="_blank">✨사이트</a>
 
 #### [REACT] 포트폴리오 : 제가 지금까지 밟아온 발자취를 인터렉티브한 포트폴리오로 구성해보았습니다 🦙✨
-<a href="https://github.com/kimsangjunv1/-React-Portfolio" target="_blank">✨깃허브</a> <a href="https://portfolio-react-kimsangjun.netlify.app/"  target="_blank">✨사이트</a>
+<a href="https://github.com/kimsangjunv1/-React-Portfolio" target="_blank">✨깃허브</a> <a href="https://portfoliosj-react.netlify.app/"  target="_blank">✨사이트</a>
 
 #### [Next.JS] PICK : 내가 원하는 날씨별 음악을 픽하고 클릭하는 뮤직플레이어 '픽클' 입니다 [개선중]
 <a href="https://github.com/kimsangjunv1/-NextJS-Pickle" target="_blank">✨깃허브</a> <a href="https://pickle-music.netlify.app/home"  target="_blank">✨사이트</a>
