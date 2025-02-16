@@ -38,3 +38,8 @@
 
 #### 툴
 <img alt="jira" src="https://img.shields.io/badge/Jira-000?logo=Jira&logoColor=white"> <img alt="Figma" src="https://img.shields.io/badge/Figma-000?logo=Figma&logoColor=white"> <img alt="Git" src="https://img.shields.io/badge/Git-000?logo=Git&logoColor=white"> <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-000?logo=Visual Studio Code&logoColor=white">
+
+## GIT ANIMALS
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/kimsangjunv1"/>
+</a>
