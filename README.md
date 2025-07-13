@@ -18,6 +18,9 @@
 #### [REACT] PlayGround : 내가 원하는 유튜브 영상을 드래그해놓고 마음대로 꺼내다가 볼수있는 '플레이그라운드' 입니다
 <a href="https://github.com/kimsangjunv1/-React-Playground" target="_blank">✨깃허브</a> <a href="https://react-techtube.netlify.app/"  target="_blank">✨사이트</a>
 
+#### [Next.JS] ByMyDay : 자유로운 에디터가 강점인 모바일 청접장 서비스 "ByMyDay" 입니다 - [ 현재 구현중 / 2025-07-03 ]
+<a href="/" target="_blank">✨깃허브</a> <a href="/"  target="_blank">✨사이트</a>
+
 
 ## 사용언어
 #### 프레임워크
