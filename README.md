@@ -19,10 +19,10 @@
 <a href="https://github.com/kimsangjunv1/-React-Playground" target="_blank">✨깃허브</a> <a href="https://react-techtube.netlify.app/"  target="_blank">✨사이트</a>
 
 #### [Next.JS] ByMyDay : 자유로운 에디터가 강점인 모바일 청접장 서비스 "ByMyDay" 입니다 - [ 2025-07-03 ~ 현재 구현중 ]
-<a href="/" target="_blank">✨깃허브</a> <a href="/"  target="_blank">✨사이트</a>
+<a href="/"  target="_blank">✨사이트 (준비중)</a>
 
 #### [Next.JS] CODi Agit : 제가 생각하고 해보고 느낀것, 좋아하는 것들을 모아놓을 아지트입니다 [ 2025-09-10 ~ 현재 구현중 ]
-<a href="https://github.com/kimsangjunv1/-NextJS-CODi_Agit-" target="_blank">✨깃허브</a> <a href="https://codi-agit.com/home/"  target="_blank">✨사이트</a>
+<a href="https://github.com/kimsangjunv1/-NextJS-CODi_Agit-" target="_blank">✨깃허브</a> <a href="/"  target="_blank">✨사이트 (준비중)</a>
 
 ## 사용언어
 #### 프레임워크
