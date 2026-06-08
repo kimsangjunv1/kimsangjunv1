@@ -29,25 +29,26 @@
 <br/>
 
 ## Tech Stack
-#### 프레임워크
+
+#### Frameworks
 <img alt="next.js" src="https://img.shields.io/badge/next.js-000?logo=nextdotjs&logoColor=white"> <img alt="svelte" src="https://img.shields.io/badge/svelte-000?logo=svelte&logoColor=white">
 
-#### 라이브러리 : 기본
+#### Core Libraries
 <img alt="react" src="https://img.shields.io/badge/react-000?logo=react&logoColor=white"> <img alt="tanstack query" src="https://img.shields.io/badge/tanstack query-000?logo=react-query&logoColor=white"> <img alt="zustand" src="https://img.shields.io/badge/zustand-000?logo=zustand&logoColor=white"> <img alt="tailwindcss" src="https://img.shields.io/badge/tailwindcss-000?logo=tailwindcss&logoColor=white"> <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-000?logo=bootstrap&logoColor=white">
 
-#### 라이브러리 : 모션
+#### Motion Libraries
 <img alt="framer motion" src="https://img.shields.io/badge/framer motion-000?logo=framer&logoColor=white"> <img alt="gsap" src="https://img.shields.io/badge/gsap-000?logo=greensock&logoColor=white"> <img alt="matter.js" src="https://img.shields.io/badge/matter.js-000?logo=matterdotjs&logoColor=white"> <img alt="lenis" src="https://img.shields.io/badge/lenis-000?logo=lenis&logoColor=white"> <img alt="swiper" src="https://img.shields.io/badge/swiper-000?logo=swiper&logoColor=white">
 
-#### 테스팅
+#### Testing
 <img alt="playwright" src="https://img.shields.io/badge/playwright-000?logo=playwright&logoColor=white">
 
-#### 백엔드
+#### Backend
 <img alt="php" src="https://img.shields.io/badge/php-000?logo=php&logoColor=white"> <img alt="mysql" src="https://img.shields.io/badge/mysql-000?logo=mysql&logoColor=white"> <img alt="supabase" src="https://img.shields.io/badge/supabase-000?logo=supabase&logoColor=white">
 
-#### 툴
+#### Tools
 <img alt="jira" src="https://img.shields.io/badge/jira-000?logo=jira&logoColor=white"> <img alt="figma" src="https://img.shields.io/badge/figma-000?logo=figma&logoColor=white">
 
-#### AI Agent
+#### AI Agents
 <img alt="codex" src="https://img.shields.io/badge/codex-000?logo=openai&logoColor=white"> <img alt="cursor" src="https://img.shields.io/badge/cursor-000?logo=cursor&logoColor=white">
 
 <br/>
