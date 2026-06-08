@@ -5,7 +5,7 @@
 <br/>
 
 ## Open Source
-#### [REACT] Stitchable : DOM 기반 QA & Feedback 라이브러리 [ 2026-05-29 ~ 현재 구현중 ]
+#### Stitchable : DOM 기반 QA & Feedback 라이브러리 [ 2026-05-29 ~ 현재 구현중 ]
 - Element 기반 피드백 수집
 - React / Next.js 지원
 - QA 프로세스 간소화
@@ -14,13 +14,13 @@
 <br/>
 
 ## Projects
-#### [Next.JS] CODi Agit : 제가 생각하고 해보고 느낀것, 좋아하는 것들을 모아놓을 아지트입니다 [ 2025-09-10 ~ 현재 구현중 ]
+#### CODi Agit : 제가 생각하고 해보고 느낀것, 좋아하는 것들을 모아놓을 아지트입니다 [ 2025-09-10 ~ 현재 구현중 ]
 <!-- <a href="https://github.com/kimsangjunv1/-NextJS-CODi_Agit-" target="_blank">✨깃허브</a> <a href="/"  target="_blank">✨사이트 (준비중)</a> -->
 
-#### [Next.JS] ByMyDay : 모바일 청접장 서비스 "BeMyDay" 입니다 - [ 2025-07-03 ~ 현재 구현중 ]
+#### ByMyDay : 모바일 청접장 서비스 "BeMyDay" 입니다 - [ 2025-07-03 ~ 현재 구현중 ]
 <!-- <a href="/"  target="_blank">✨사이트 (준비중)</a> -->
 
-#### [REACT] 포트폴리오 : 제가 지금까지 밟아온 발자취를 인터렉티브한 포트폴리오로 구성해보았습니다 🦙✨
+#### 포트폴리오 : 제가 지금까지 밟아온 발자취를 인터렉티브한 포트폴리오로 구성해보았습니다 🦙✨
 <a href="https://github.com/kimsangjunv1/-React-Portfolio" target="_blank">✨깃허브</a> <a href="https://portfoliosj-react.netlify.app/"  target="_blank">✨사이트</a>
 
 #### ~~[PHP] CODi Agit : 제가 생각하고 해보고 느낀것, 좋아하는 것들을 모아놓을 아지트입니다 [구]~~
