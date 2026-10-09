@@ -1,40 +1,75 @@
 # 김상준 | Frontend Developer 🌳
-더 나은 사용자 경험을 위해 고민하고 만들어가는 프론트엔드 개발자 김상준입니다.<br/>
-재사용성, 유지보수성, 확장성을 중요하게 생각하며 작은 아이디어도 직접 구현해보는 것을 좋아합니다.
+
+사용자의 불편함을 발견하고, 더 나은 경험으로 개선하는 프론트엔드 개발자입니다.
+
+단순히 기능을 구현하는 것을 넘어, 반복되는 문제를 줄이고
+동료 개발자가 유지보수하기 좋은 구조를 만드는 데 관심이 있습니다.
+
+React와 Next.js를 중심으로 웹 서비스를 개발하고 있으며,
+디자인 시스템과 개발 도구를 직접 설계하고 구현하는 것을 좋아합니다.
 
 <br/>
 
-## Open Source Projects
-#### Fivepixels : DOM 기반 QA & Feedback 라이브러리 [ 2026-05-29 ~ 현재 구현중 ]
-- Element 기반 피드백 수집
-- React / Next.js 지원
-- QA 프로세스 간소화
+## Open Source
 
-<a href="https://github.com/kimsangjunv1/fivepixels" target="_blank">✨깃허브</a> <a href="https://www.npmjs.com/package/@fivepixels-js/react"  target="_blank">✨NPM</a>
+### Fivepixels
+**DOM 기반 QA & Feedback 라이브러리**
+
+QA 과정에서 반복되는 커뮤니케이션 문제를 줄이기 위해 개발한 React 라이브러리입니다.
+
+- DOM 요소 기반 피드백 수집 및 마커 표시
+- 요소 식별자와 상대 좌표를 활용한 피드백 위치 복원
+- React / Next.js 환경 지원
+- LocalStorage 및 커스텀 API Adapter 지원
+- npm 패키지 배포
+
+**Tech** `React` `TypeScript` `tsup`
+
+[GitHub](https://github.com/kimsangjunv1/fivepixels) ·
+[NPM](https://www.npmjs.com/package/@fivepixels-js/react) ·
+[Documentation](https://fivepixels.codi-agit.com/)
 
 <br/>
 
-## Other Projects
-#### Fivepixels Docs : Fivepixels 라이브러리를 소개하고 설치 가이드 및 세팅 환경 제공을 안내해주는 사이트입니다 [ 2026-06-07 ~ 2026-08-25 ]
-<a href="https://github.com/kimsangjunv1/stitchable-landing" target="_blank">✨깃허브</a> <a href="https://fivepixels.codi-agit.com/"  target="_blank">✨사이트</a>
+## Projects
 
-#### CODi Agit : 제가 생각하고 해보고 느낀것, 좋아하는 것들을 모아놓을 아지트입니다 [ 2025-09-10 ~ 2026-04-23 ]
-<a href="https://github.com/kimsangjunv1/codi-agit" target="_blank">✨깃허브</a> <a href="https://codi-agit.com/"  target="_blank">✨사이트</a>
+### Fivepixels Docs
+**라이브러리 소개 및 개발자 문서 사이트**
 
-#### Interactive Showcase : 2024년까지 활동한 작업물들에 대해 인터렉티브한 쇼케이스로 구성한 사이트입니다 🦙✨
-<a href="https://github.com/kimsangjunv1/-React-Portfolio" target="_blank">✨깃허브</a> <a href="https://portfoliosj-react.netlify.app/"  target="_blank">✨사이트</a>
+Fivepixels의 기능을 소개하고 설치 방법과 사용 예시를 제공하는 웹사이트입니다.
+
+[GitHub](https://github.com/kimsangjunv1/stitchable-landing) ·
+[Website](https://fivepixels.codi-agit.com/)
+
+### CODi Agit
+**개발 경험과 생각을 기록하는 개인 블로그**
+
+개발 과정에서 경험한 문제와 해결 방법, 기술적인 고민을 기록하는 공간입니다.
+
+[GitHub](https://github.com/kimsangjunv1/codi-agit) ·
+[Website](https://codi-agit.com/)
+
+### Interactive Showcase
+**인터랙션 중심의 개인 포트폴리오**
+
+사용자 인터랙션과 애니메이션을 활용해
+과거 작업물을 시각적으로 소개하는 포트폴리오입니다.
+
+[GitHub](https://github.com/kimsangjunv1/-React-Portfolio) ·
+[Website](https://portfoliosj-react.netlify.app/)
 
 <br/>
 
 ## Interests
 
-- Design System Architecture
-- Library Development
-- AI Agent Workflow (Codex / Cursor)
+- **User Experience** — 사용자의 불편함을 발견하고 개선하는 과정
+- **Developer Experience** — 반복 작업을 줄이는 도구와 개발 환경
+- **Design Systems** — 재사용 가능한 UI 컴포넌트와 설계
+- **AI-assisted Development** — AI를 활용한 코드 검토와 개발 워크플로 개선
 
 <br/>
 
-## 📫 Contact
+## Contact
 
-- Blog : codi-agit.com
-- Email : to_before@naver.com
+- **Blog** — [CODi Agit](https://codi-agit.com/)
+- **Email** — to_before@naver.com
