@@ -49,10 +49,10 @@ Fivepixels의 기능을 소개하고 설치 방법과 사용 예시를 제공하
 [GitHub](https://github.com/kimsangjunv1/codi-agit) ·
 [Website](https://codi-agit.com/)
 
-### Interactive Showcase
+### 2024 인터렉티브 포트폴리오
 **인터랙션 중심의 개인 포트폴리오**
 
-사용자 인터랙션과 애니메이션을 활용해
+사용자 인터랙션과 캐릭터와 애니메이션을 활용해
 과거 작업물을 시각적으로 소개하는 포트폴리오입니다.
 
 [GitHub](https://github.com/kimsangjunv1/-React-Portfolio) ·
